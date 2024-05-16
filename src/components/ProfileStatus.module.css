@@ -1,0 +1,16 @@
+.Menu{
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+}
+
+.child{
+    
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+
+p{
+    text-align: center;
+}

@@ -1,0 +1,24 @@
+.Navbar{
+    border: 2px solid red;
+
+}
+.nav{
+    margin-left: 15px;
+    font-size: 20px;
+    font-family: "poppins";
+    font-weight: 500;
+}
+.button{
+    margin-right: 20px;
+    font-size: 15px;
+    font-family: "poppins";
+    font-weight: 500;
+    background-color: black;
+}
+
+.button:hover{
+transition: 3s;
+color: rgb(179, 255, 0);
+background-color: rgb(255, 72, 0);
+}
+

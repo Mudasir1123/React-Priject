@@ -1,0 +1,9 @@
+.tweet{
+    border: 2px solid red;
+    width: 55%;
+}
+
+.tweet1{
+    display: flex;
+
+}
